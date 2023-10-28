@@ -11,5 +11,5 @@ const sizes = useMonitorSize();
     <h2>{{ sizes.deviceWidth }} pixels: Device</h2>
   
     <Mobile v-if="sizes.isMobile.value" />
-    <Web v-if="!sizes.isMobile.value" />
+    <Web v-else />
 </template>
