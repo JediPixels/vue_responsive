@@ -12,8 +12,6 @@ export function useMonitorSize() {
         sizes.browserWidth = window.innerWidth
         sizes.deviceWidth = screen.width
         sizes.isMobile = isMobile()
-
-        
     }
 
     const isMobile = () => {
