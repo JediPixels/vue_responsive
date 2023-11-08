@@ -109,11 +109,7 @@
 
 # Video
 
-<iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/hBvkABCIjJo"
-frameborder="0" allowfullscreen>
-
-
-### [Play on YouTube](https://www.youtube.com/embed/hBvkABCIjJo)
+[![Watch the video](https://img.youtube.com/vi/hBvkABCIjJo/maxresdefault.jpg)](https://youtu.be/hBvkABCIjJo)
 
 ----------
+
